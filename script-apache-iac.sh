@@ -10,8 +10,8 @@ apt-get install unzip -y
 echo "Baixando e copiando os arquivos da aplicação..."
 
 cd /tmp
-#link do arquivo
 
+#link do arquivo
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
 
